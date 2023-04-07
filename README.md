@@ -1,1 +1,1 @@
-# Tribal-Mueseum-in-VR
+# Tribal-Museum-in-VR
